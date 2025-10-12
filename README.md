@@ -2,8 +2,8 @@
 
 <a href="https://easy-jon.de"><picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulGBarbu/TSAR2025/main/imgs/dark_EasyJon.png">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulGBarbu/TSAR2025/main/imgs/light_EasyJon.png">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulGBarbu/TSAR2025/refs/heads/main/imgs/dark_EasyJon.png">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulGBarbu/TSAR2025/refs/heads/main/imgs/light_EasyJon.png">
 <img alt="EasyJon Logo" src="vhttps://raw.githubusercontent.com/PaulGBarbu/TSAR2025/main/imgs/light_EasyJon.png" height="110" style="max-width: 100%;">
 </picture></a>
 
