@@ -1,18 +1,19 @@
 <h1 align="center" style="font-weight: bold;">EasyJon at TSAR 2025</h1>
 
-<a href="https://easy-jon.de"><picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulGBarbu/TSAR2025/refs/heads/main/imgs/dark_EasyJon.png">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulGBarbu/TSAR2025/refs/heads/main/imgs/light_EasyJon.png">
-<img alt="EasyJon Logo" src="vhttps://raw.githubusercontent.com/PaulGBarbu/TSAR2025/main/imgs/light_EasyJon.png" height="110" style="max-width: 100%;">
-</picture></a>
+<p align="center">
+    <a href="https://easy-jon.de">
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulGBarbu/TSAR2025/refs/heads/main/imgs/dark_EasyJon.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulGBarbu/TSAR2025/refs/heads/main/imgs/light_EasyJon.png">
+        <img alt="EasyJon Logo" src="https://raw.githubusercontent.com/PaulGBarbu/TSAR2025/refs/heads/main/imgs/light_EasyJon.png" height="110" style="max-width: 100%;">
+        </picture>
+    </a>
+</p>
 
 <p align="center">
 <a href="#">Paper</a>
 <a href="https://easy-jon.de">EasyJon.de</a>
 </p>
-
-<p align="center">Simple description of what your project do or how to use it</p>
 
 This repository contains the data which was generated for the TSAR 2025 Shared Task Competition.
 
