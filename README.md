@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="#">Paper</a>
+<a href="https://aclanthology.org/2025.tsar-1.14/">Paper</a>
 <a href="https://easy-jon.de">EasyJon.de</a>
 </p>
 
